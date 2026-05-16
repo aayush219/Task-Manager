@@ -2,3 +2,5 @@ Clean my bag
 Fix the table
 Wash the dishes
 Buy grocery
+Clean the program
+add lastly
