@@ -3,5 +3,5 @@ Return the books to the library.
 Visit the museum.
 Print the pictures.
 Fix the floor.
-Buy grocery.
-Clean the bag.
+Pay fine
+help the neighbour.
